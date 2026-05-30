@@ -1,4 +1,4 @@
-﻿# Airbnb Exploratory Data Analysis (EDA)
+# Airbnb Exploratory Data Analysis (EDA)
 
 ## Project Overview
 
@@ -69,19 +69,11 @@ The dataset contains information related to:
 
 ## Price Distribution
 
-```md
-![Price Distribution](images/Distribution_of_listing_price.png)
-```
-
 ![Price Distribution](images/Distribution_of_listing_price.png)
 
 ---
 
 ## Room Type Distribution
-
-```md
-![Room Type Distribution](images/Distribution_by_room_type.png)
-```
 
 ![Room Type Distribution](images/Distribution_by_room_type.png)
 
@@ -89,19 +81,11 @@ The dataset contains information related to:
 
 ## Listings by Neighbourhood Group
 
-```md
-![Neighbourhood Listings](images/Listings_by_neighbourhood Group.png)
-```
-
-![Neighbourhood Listings](images/Listings_by_neighbourhood Group.png)
+![Neighbourhood Listings](images/Listings_by_neighbourhood%20Group.png)
 
 ---
 
 ## Host Identity Verification
-
-```md
-![Host Identity](images/Host_Identity.png)
-```
 
 ![Host Identity](images/Host_Identity.png)
 
@@ -109,14 +93,15 @@ The dataset contains information related to:
 
 # Project Structure
 
-```text
 Airbnb-EDA-SemiGuided/
-│
+
 ├── data/
+
 ├── images/
+
 ├── notebook/
+
 └── README.md
-```
 
 ---
 
@@ -130,4 +115,3 @@ This project helped in understanding the complete EDA workflow including:
 * Analyst-style thinking
 
 It also strengthened practical skills in Pandas and data analysis workflow.
-
